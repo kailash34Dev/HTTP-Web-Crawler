@@ -21,7 +21,7 @@ npm start <website_url>
 
 Example:
 ```bash
-npm start www.gbtutorial.com
+npm start www.xyz.com
 ```
 
 The crawler will output a formatted summary of internal links and external links found during the crawl.
